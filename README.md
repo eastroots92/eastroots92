@@ -1,5 +1,8 @@
 ### Hi there 👋
+[RESUME](https://www.notion.so/eastroots/8292584e57934ba9b76749304cb5042b)
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Feastroots92)](https://github.com/eastroots92)
+
 
 <!--
 **eastroots92/eastroots92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
